@@ -1,0 +1,1 @@
+This project is going to be a simple recipes blog that I will continually build upon as I work through the Odin Project. 
