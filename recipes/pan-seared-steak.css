@@ -1,4 +1,28 @@
 img {
-    width: 400px;
-    height: auto;
+  width: 400px;
+  height: auto;
+}
+
+body {
+  background-color: #f7edb7;
+}
+
+h1,
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+p,
+ul,
+ol {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
 }
